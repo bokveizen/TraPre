@@ -1,0 +1,31 @@
+# res0620_100ahead
+1s error average: 1.1335997346966846
+1s error median: 0.40473172023470705
+1s error std: 2.7039701865180454
+3s error average: 6.108527903919607
+3s error median: 2.4913353176443187
+3s error std: 10.255715941755419
+No. of vehicles whose 1s error <= 0.2 and 3s error <= 0.5: 53 3.10%
+No. of vehicles whose 1s error <= 0.5 and 3s error <= 1.5: 507 29.70%
+No. of vehicles whose 1s error <= 1.0 and 3s error <= 3.0: 912 53.43%
+No. of vehicles whose 1s error <= 0.2: 477 27.94%
+No. of vehicles whose 3s error <= 0.5: 73 4.28%
+No. of vehicles whose 1s error <= 0.5: 980 57.41%
+No. of vehicles whose 3s error <= 1.5: 543 31.81%
+
+
+# res_0701_500nosm
+1s error average: 1.367183064369196
+1s error median: 0.4302451990152723
+1s error std: 3.122455751934982
+3s error average: 8.034521347337812
+3s error median: 2.8898675510017595
+3s error std: 13.85124083217929
+No. of vehicles whose 1s error <= 0.2 and 3s error <= 0.5: 122 7.15%
+No. of vehicles whose 1s error <= 0.5 and 3s error <= 1.5: 492 28.82%
+No. of vehicles whose 1s error <= 1.0 and 3s error <= 3.0: 845 49.50%
+No. of vehicles whose 1s error <= 0.2: 502 29.41%
+No. of vehicles whose 3s error <= 0.5: 145 8.49%
+No. of vehicles whose 1s error <= 0.5: 907 53.13%
+No. of vehicles whose 3s error <= 1.5: 511 29.94%
+
